@@ -1,0 +1,29 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+(CC BY-NC-SA 4.0)
+
+Applies to: the original derivative content produced by this project, namely
+  - AI-generated case summaries (case_summary) and reply-structure annotations
+    (reply_structure) in data/cases/*.jsonl and docs/data/;
+  - the regulatory-question taxonomy (data/taxonomy_v1.json) and the question
+    map organisation (data/regulatory_question_map.json, node counts,
+    representative-question selection and ordering);
+  - dataset organisation, shard layout, manifest and statistics
+    (data/manifest.json, data/stats.json, docs/data/*).
+
+You may read the license summary (deed) at:
+  https://creativecommons.org/licenses/by-nc-sa/4.0/
+The full legal code is at:
+  https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+In short: you must give attribution, may not use the material for commercial
+purposes, and must distribute adaptations under the same license.
+
+SCOPE LIMITATION (important): this license covers ONLY the project-original
+derivative content listed above. Excerpted source text contained in this
+dataset — including regulatory question originals (question_text),
+representative question quotations, and any other verbatim excerpts — is
+reproduced from public disclosure documents published by the Shanghai and
+Shenzhen Stock Exchanges. Those excerpts remain the property of their
+original right holders; they are NOT re-licensed by this project and are
+included solely as short quotations for identification and research
+traceability. See README.md, section "许可与第三方文本边界".

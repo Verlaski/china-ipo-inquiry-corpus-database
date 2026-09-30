@@ -1,0 +1,9 @@
+{
+ "total": 15224,
+ "by_source": {
+  "manifest": 9184,
+  "inventory_fid": 6040
+ },
+ "coverage": 1.0,
+ "unresolved_sample": []
+}

@@ -1,0 +1,56 @@
+{
+ "dataset_version": "v1.0.1",
+ "corpus_snapshot": "2026-09-30",
+ "site_build": "2026-09-30 16:30:34",
+ "total_cases": 15224,
+ "files": [
+  {
+   "name": "cases/SSE_2023.jsonl",
+   "cases": 4607,
+   "bytes": 18193113,
+   "sha256": "eb50db1ef352a94bb2a5eea9a5b8a8f637e26350bb3e69fb832211cc993405c1"
+  },
+  {
+   "name": "cases/SSE_2024.jsonl",
+   "cases": 1792,
+   "bytes": 7155206,
+   "sha256": "730da476824201e4a7b09fd6ff279c7f2ba051ecde54d3c3830155e3deef2497"
+  },
+  {
+   "name": "cases/SSE_2025.jsonl",
+   "cases": 827,
+   "bytes": 3438172,
+   "sha256": "f50e3cdfa15a88429dd25504be62450887a4ea62c7456e774c3e4f8fcc90c368"
+  },
+  {
+   "name": "cases/SSE_2026.jsonl",
+   "cases": 784,
+   "bytes": 3328120,
+   "sha256": "8e4925cceb532f0be2a730938e04e19eabd3d7fed9ee64d8f67570faff688d8a"
+  },
+  {
+   "name": "cases/SZSE_2023.jsonl",
+   "cases": 3704,
+   "bytes": 15048850,
+   "sha256": "cc86fc9c6a950fcbe81ca661540e80be024c3968f414af86d6008f64b77a2ede"
+  },
+  {
+   "name": "cases/SZSE_2024.jsonl",
+   "cases": 1734,
+   "bytes": 7128149,
+   "sha256": "40e722f494f80ffbaabaeed9619a132e1c8a43231d5924e25717fb7cc12aa1af"
+  },
+  {
+   "name": "cases/SZSE_2025.jsonl",
+   "cases": 564,
+   "bytes": 2378578,
+   "sha256": "f9b74f36ca05deecf52e22f1f1ea1e0d24edb57ac9efe1dca27b7cc713b66298"
+  },
+  {
+   "name": "cases/SZSE_2026.jsonl",
+   "cases": 1212,
+   "bytes": 4415035,
+   "sha256": "0cf36ac603283d2963b50b3334ffd7342066448329bd1bf0fa7cea82bded0e39"
+  }
+ ]
+}
