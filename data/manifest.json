@@ -1,8 +1,8 @@
 {
- "dataset_version": "v2026.10.09",
- "corpus_snapshot": "2026-10-09",
- "site_build": "2026-10-09 19:51:45",
- "total_cases": 15242,
+ "dataset_version": "v2026.10.17",
+ "corpus_snapshot": "2026-10-17",
+ "site_build": "2026-10-17 13:02:41",
+ "total_cases": 15296,
  "files": [
   {
    "name": "cases/SSE_2023.jsonl",
@@ -24,9 +24,9 @@
   },
   {
    "name": "cases/SSE_2026.jsonl",
-   "cases": 801,
-   "bytes": 3398668,
-   "sha256": "29ce42a1b22fddf6379aadb98aef86000c4a0ceeb2fe23286f63b6347d6c62d6"
+   "cases": 813,
+   "bytes": 3470662,
+   "sha256": "2c2be6a42370d84863c21b9a143e39ef7b3f95377021f850ad03a986dbb1c98d"
   },
   {
    "name": "cases/SZSE_2023.jsonl",
@@ -48,9 +48,9 @@
   },
   {
    "name": "cases/SZSE_2026.jsonl",
-   "cases": 1213,
-   "bytes": 4417610,
-   "sha256": "ac3e85e0e743256c56fc57c0b837ccdf4c76901b897bbeeeceab1da211174656"
+   "cases": 1255,
+   "bytes": 4541238,
+   "sha256": "48051484c3105416e2ee1edacf3a4dbfe1946b9ea1ce11a80b41e75d565df4d4"
   }
  ]
 }
