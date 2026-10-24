@@ -1,8 +1,8 @@
 {
- "total": 15379,
+ "total": 14696,
  "by_source": {
-  "manifest": 9339,
-  "inventory_fid": 6040
+  "manifest": 8913,
+  "inventory_fid": 5783
  },
  "coverage": 1.0,
  "unresolved_sample": []
